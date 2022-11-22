@@ -17,6 +17,6 @@ Heres a complete guide to [**install PyTorch & torchvision**](https://forums.dev
 ## Inference
 Run ```JetsonYoloV5.py``` to detect objects with the camera.
 ```
-$ python3 JetsonYolo.py
+$ python3 JetsonYoloV5.py
 ```
 [Video File Recordings](https://drive.google.com/drive/folders/18rL822lbXBCEumcBSIpDz1um5rX6ugdv?usp=sharing)
